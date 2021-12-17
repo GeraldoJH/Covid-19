@@ -3,10 +3,6 @@
 
 ### Built With
 - Flutter
-### VideoDemo
-- Dapat didownload melalui Github atau melalui link https://drive.google.com/file/d/1Q5ohjz_cV8xovx-EyfHYbGss8JdOFp5M/view?usp=sharing (DEMO saat UTS)
-- Demo yang terbaru tidak ada dikarenakan tidak bisa melakukan Testing diMobile fisik maupun emulator
-
 ### Created By
 - Geraldo Julius Halim
 ---
